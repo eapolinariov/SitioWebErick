@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick\\Documents\\ERICK\\Web Apps\\ErickWebSite\\ErickWebSite.csproj": {}
+    "C:\\Users\\erick\\Documents\\ERICK\\Web Apps\\SitioWebErick\\ErickWebSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick\\Documents\\ERICK\\Web Apps\\ErickWebSite\\ErickWebSite.csproj": {
+    "C:\\Users\\erick\\Documents\\ERICK\\Web Apps\\SitioWebErick\\ErickWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\Documents\\ERICK\\Web Apps\\ErickWebSite\\ErickWebSite.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Documents\\ERICK\\Web Apps\\SitioWebErick\\ErickWebSite.csproj",
         "projectName": "ErickWebSite",
-        "projectPath": "C:\\Users\\erick\\Documents\\ERICK\\Web Apps\\ErickWebSite\\ErickWebSite.csproj",
+        "projectPath": "C:\\Users\\erick\\Documents\\ERICK\\Web Apps\\SitioWebErick\\ErickWebSite.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\Documents\\ERICK\\Web Apps\\ErickWebSite\\obj\\",
+        "outputPath": "C:\\Users\\erick\\Documents\\ERICK\\Web Apps\\SitioWebErick\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
